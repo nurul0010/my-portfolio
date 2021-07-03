@@ -7,3 +7,15 @@ h1{
 #puchka{
     color: #FFA500;
 }
+img{
+    width: 100%;
+}
+section{
+    display: flex;
+}
+.text-item{
+    width: 50%;
+}
+.picture{
+    width: 50%;
+}
